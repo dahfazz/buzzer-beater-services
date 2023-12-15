@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Atlanta Hawks",
+    "key": "ATL"
+  },
+  {
+    "name": "Boston Celtics",
+    "key": "BOS"
+  },
+  {
+    "name": "Brooklyn Nets",
+    "key": "NJN"
+  },
+  {
+    "name": "Charlotte Hornets",
+    "key": "CHA"
+  },
+  {
+    "name": "Chicago Bulls",
+    "key": "CHI"
+  },
+  {
+    "name": "Cleveland Cavaliers",
+    "key": "CLE"
+  },
+  {
+    "name": "Dallas Mavericks",
+    "key": "DAL"
+  },
+  {
+    "name": "Denver Nuggets",
+    "key": "DEN"
+  },
+  {
+    "name": "Detroit Pistons",
+    "key": "DET"
+  },
+  {
+    "name": "Golden State Warriors",
+    "key": "GSW"
+  },
+  {
+    "name": "Houston Rockets",
+    "key": "HOU"
+  },
+  {
+    "name": "Indiana Pacers",
+    "key": "IND"
+  },
+  {
+    "name": "Los Angeles Clippers",
+    "key": "LAC"
+  },
+  {
+    "name": "Los Angeles Lakers",
+    "key": "LAL"
+  },
+  {
+    "name": "Memphis Grizzlies",
+    "key": "MEM"
+  },
+  {
+    "name": "Miami Heat",
+    "key": "MIA"
+  },
+  {
+    "name": "Milwaukee Bucks",
+    "key": "MIL"
+  },
+  {
+    "name": "Minnesota Timberwolves",
+    "key": "MIN"
+  },
+  {
+    "name": "New Orleans Pelicans",
+    "key": "NOH"
+  },
+  {
+    "name": "New York Knicks",
+    "key": "NYK"
+  },
+  {
+    "name": "Oklahoma City Thunder",
+    "key": "OKC"
+  },
+  {
+    "name": "Orlando Magic",
+    "key": "ORL"
+  },
+  {
+    "name": "Philadelphia 76ers",
+    "key": "PHI"
+  },
+  {
+    "name": "Phoenix Suns",
+    "key": "PHO"
+  },
+  {
+    "name": "Portland Trail Blazers",
+    "key": "POR"
+  },
+  {
+    "name": "Sacramento Kings",
+    "key": "SAC"
+  },
+  {
+    "name": "San Antonio Spurs",
+    "key": "SAS"
+  },
+  {
+    "name": "Toronto Raptors",
+    "key": "TOR"
+  },
+  {
+    "name": "Utah Jazz",
+    "key": "UTA"
+  },
+  {
+    "name": "Washington Wizards",
+    "key": "WAS"
+  }
+]
